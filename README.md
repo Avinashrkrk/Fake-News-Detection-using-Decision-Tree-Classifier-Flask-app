@@ -1,6 +1,6 @@
 # Fake-News-Detection-using-Decision-Tree-Classifier-Flask-app
 
-Download datasets for this projects : https://drive.google.com/drive/u/2/folders/1r9dyN6C_wvszH1c95oi6o7aVBKh6PpSC
+Download datasets for this projects : https://drive.google.com/drive/folders/1r9dyN6C_wvszH1c95oi6o7aVBKh6PpSC?usp=drive_link
 
 
 Description:
